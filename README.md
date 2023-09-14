@@ -1,16 +1,14 @@
-### Hi there 👋
+# Lorena Jurado - Public Relations & Sales :briefcase: 
+# Experience :computer:
+-**BlueIvy Coaching** - Public relations and sales :moneybag:
+- **SGA student asisstanht** - Student asisstant :coffee:
+- **CMT** - Promoter and Data Base Growth :computer:
 
-<!--
-**ljura009/ljura009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ##Fun Fact :tada:
+ I love all types of bears
 
-Here are some ideas to get you started:
+ ##Projects :rocket:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ##Connect with me :handshake:
+ Here is my [linkedIn] (url) if you want to connect :smiley:
